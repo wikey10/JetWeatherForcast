@@ -50,7 +50,7 @@ fun WeatherMainScreen(navController: NavController,modifier: Modifier,
                       city:String?) {
     Log.d("city","MainScreen${city}")
 
-    val curCity : String= if(city!!.isBlank()) "Seattle" else city
+    val curCity : String= if(city!!.isBlank()) "Tokyo" else city
 
     val unitFromDB = settingsViewModel.unitList.collectAsState().value
 
