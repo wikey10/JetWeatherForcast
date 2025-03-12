@@ -1,4 +1,4 @@
-![Screenshot_1741765869](https://github.com/user-attachments/assets/8b0df34f-a9a8-44dd-90be-74a5bb24a8af)# 🌦️ Weather App  
+# 🌦️ Weather App  
 
 A simple Kotlin-based weather application that allows users to check the weather of any city, add favorite cities, and toggle between Celsius and Fahrenheit.  
 
